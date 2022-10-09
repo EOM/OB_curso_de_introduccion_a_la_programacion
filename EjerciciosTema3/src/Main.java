@@ -33,8 +33,8 @@ public class Main {
      * la cantidad de puertas definidas anteriormente.
      */
     protected static void parte2() {
-        Coche coche = new Coche();
-        coche.setCantidadDePuerta(4);
-        coche.saberCantidadDePuertas();
+        Coche miCoche = new Coche();
+        miCoche.setCantidadDePuerta(4);
+        miCoche.saberCantidadDePuertas();
     }
 }
