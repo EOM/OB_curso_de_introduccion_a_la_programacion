@@ -1,4 +1,4 @@
-# BO / Curso de introducción a la programación
+# OB / Curso de introducción a la programación
 ## Enunciado del ejercicio Tema 8:
 
 Para practicar la encapsulación:
