@@ -1,2 +1,3 @@
-# BO_curso_de_introduccion_a_la_programacion
-Ejercicios de Curso de Introducción a la programación
+# BO / Curso de introducción a la programación
+Lista de Ejercicios
+- [Ejercicio Tema 3](EjerciciosTema3)
